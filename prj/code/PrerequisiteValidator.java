@@ -1,7 +1,6 @@
 /*
 Tawan Scott
-Professor Rivas
-CMPT440
+Developed in Eclipse
 15 May 2020
 */
 import java.io.*;
